@@ -6,4 +6,6 @@ my first repository for test
 
 remove my first commit.
 
-add my second commit.
+remove my second commit.
+
+add my third commit.
